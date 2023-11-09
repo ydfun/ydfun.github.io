@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ydfun.github.io</id>
+    <title>hell</title>
+    <updated>2023-11-09T13:44:26.728Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ydfun.github.io"/>
+    <link rel="self" href="https://ydfun.github.io/atom.xml"/>
+    <logo>https://ydfun.github.io/images/avatar.png</logo>
+    <icon>https://ydfun.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, hell</rights>
+    <entry>
+        <title type="html"><![CDATA[下载安装]]></title>
+        <id>https://ydfun.github.io/post/xia-zai-an-zhuang/</id>
+        <link href="https://ydfun.github.io/post/xia-zai-an-zhuang/">
+        </link>
+        <updated>2023-11-09T02:52:54.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="如果不提示安装请使用手机自带浏览器safari打开此网页">如果不提示安装，请使用手机自带浏览器Safari打开此网页</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>破解版 App下载</title>
+</head>
+<body>
+<a href="itms-services://?action=download-manifest&url=https://github.com/ydfun/lydl/releases/download/v1.0/install.plist" style="color: red; font-size: 40px;">点击安装 👈</a>
+</body>
+</html>]]></content>
+    </entry>
+</feed>
